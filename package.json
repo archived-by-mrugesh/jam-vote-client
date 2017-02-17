@@ -41,14 +41,18 @@
     }
   },
   "dependencies": {
-    "immutable": "^3.8.1",
-    "react": "^15.4.2",
-    "react-addons-pure-render-mixin": "^15.4.2",
-    "react-addons-test-utils": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.2",
-    "react-router": "^2.0.0",
-    "redux": "^3.6.0",
-    "socket.io-client": "^1.7.3"
+    "autoprefixer": "^6.3.3",
+    "classnames": "^2.2.3",
+    "immutable": "^3.7.6",
+    "object-assign": "^4.0.1",
+    "react": "^0.14.7",
+    "react-addons-pure-render-mixin": "^0.14.7",
+    "react-addons-test-utils": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.8.1",
+    "redux": "^3.3.1",
+    "socket.io-client": "^1.4.5",
+    "uuid": "^2.0.1"
   }
 }
