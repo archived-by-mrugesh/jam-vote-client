@@ -27,6 +27,7 @@
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
     "chai": "^3.5.0",
+    "chai-immutable": "^1.6.0",
     "cz-conventional-changelog": "^1.2.0",
     "jsdom": "^9.11.0",
     "mocha": "^3.2.0",
@@ -37,5 +38,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "immutable": "^3.8.1"
   }
 }
