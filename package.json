@@ -4,7 +4,7 @@
   "description": "\"A voting utility for app for a just a minute quiz event\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js \"test/**/*@(.js|.jsx)\""
   },
   "repository": {
     "type": "git",
